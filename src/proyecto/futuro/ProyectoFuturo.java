@@ -1,6 +1,6 @@
 package proyecto.futuro;
 
-public class ProyectoFuturo {
+private class ProyectoFuturo {
 
 	static String veredicto(String valor1, String valor2) {
 		if (valor1.equals(valor2)) {
