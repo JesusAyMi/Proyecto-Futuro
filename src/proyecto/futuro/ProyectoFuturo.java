@@ -1,6 +1,8 @@
 package proyecto.futuro;
 
 public class ProyectoFuturo {
+    
+    //Jesús Ayala Milán
 
 	static String veredicto(String valor1, String valor2) {
 		if (valor1.equals(valor2)) {
